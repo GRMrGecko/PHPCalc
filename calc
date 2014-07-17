@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#  calc.php
+#
+#  Created by Mr. Gecko <GRMrGecko@gmail.com> on 10/31/12.
+#  No Copyright Claimed. Public Domain.
+#
+php /usr/ubin/calc.php
